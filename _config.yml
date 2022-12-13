@@ -4,13 +4,13 @@ description: "Latest from Broadcast Gaming Network." # This will show up in plac
 
 # Email / Social media user names used by the minima theme:
 # All of these are optional and can be removed or commented out
-email: "info@bgn.tv"
-twitter_username: "twitteruser"
+# temp block email: "info@bgn.tv"
+# temp blocktwitter_username: "twitteruser"
 #github_username: "githubuser"
 #linkedin_username: "linkedinuser"
-facebook_username: username
+# temp blockfacebook_username: username
 #flickr_username: username
-instagram_username: username
+# temp block instagram_username: username
 #pinterest_username: username
 #youtube_username: username
 #googleplus_username: +username
