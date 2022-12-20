@@ -22,4 +22,4 @@ Just because the viewership is rising, or is stable, doesn’t mean it will cont
 
 All the methods described above work in theory but there isn’t an application or a working prototype for this. It should work well in practice too because most of this has been adapted from real risk assessment systems.
 
-![rating.png][/assets/rating.png]
+![rating.png](/assets/rating.png)
