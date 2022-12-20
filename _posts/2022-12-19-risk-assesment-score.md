@@ -9,7 +9,7 @@ Score assessment using the Twitch API
 
 Abstract 
 
-Many portfolio management systems and banks assess risk with long term engagement and activity of the users. However, these institutions have a give and take loop: users would want to best scores hence it acts as an incentive to get the lowest risk, or best score. This model would create biased results if used if this scenario because in this case there’s no incentive.
+Portfolio management systems and banks assess risk using long-term engagement data and the activity of each user. However, these institutions have a give-and-take loop: users would want to earn the best scores hence it acts as an incentive to obtain the lowest risk, or best score. This model would create biased results if used in this scenario because in this case there’s no incentive.
 
 Main risk score would be calculated based on whether in the long term, user’s viewership has increased or remained stable(above a minimum threshold).
 
