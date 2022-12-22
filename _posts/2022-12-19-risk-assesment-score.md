@@ -14,8 +14,8 @@ Portfolio management systems and banks assess risk using long-term engagement da
 In general, the risk score would be calculated based on whether in the long term, the user's viewership has increased or remained stable (above a minimum threshold).
 
 * I.e 
- * score index = multiplier*(change in viewership) for a viewer uptick
- * score index = multiplier*(difference of viewership from threshold) for stable viewership
+  * score index = multiplier*(change in viewership) for a viewer uptick
+  * score index = multiplier*(difference of viewership from threshold) for stable viewership
 
 However, this model requires another requirement: predicting variations from the trend line.
 
