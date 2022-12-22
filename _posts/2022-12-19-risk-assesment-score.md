@@ -5,21 +5,22 @@ date: 2022-12-19
 category: updates
 ---
 
-Score assessment using the Twitch API
+Analyzing viewership stats for scoring
 
 Abstract 
 
-Portfolio management systems and banks assess risk using long-term engagement data and the activity of each user. However, these institutions have a give-and-take loop: users would want to earn the best scores hence it acts as an incentive to obtain the lowest risk, or best score. This model would create biased results if used in this scenario because in this case there’s no incentive.
+Portfolio management systems and banks assess risk using long-term engagement data and the activity of each user. The problem with these institutions is that there is a give-and-take loop: users want to earn the highest scores, so there is an incentive to earn the lowest risk. This model would create biased results if used in this scenario because in this case there’s no incentive.
 
-Main risk score would be calculated based on whether in the long term, user’s viewership has increased or remained stable(above a minimum threshold).
+In general, the risk score would be calculated based on whether in the long term, the user's viewership has increased or remained stable (above a minimum threshold).
 
-* I.e score index = multiplier*(change in viewership) for a viewer uptick
-* score index = multiplier*(difference of viewership from threshold) for stable viewership
+* I.e 
+ * score index = multiplier*(change in viewership) for a viewer uptick
+ * score index = multiplier*(difference of viewership from threshold) for stable viewership
 
-This model,however, presents another requirement: predicting variations from trend line.
+However, this model requires another requirement: predicting variations from the trend line.
 
-Just because the viewership is rising, or is stable, doesn’t mean it will continue that trajectory in the future. Similarly, if a channel is failing, there’s still possibility that it will rise up in the future.
+While viewership may have been rising or may be stable, it does not mean that the trend will continue. Similarly, if a channel is failing, there’s still a possibility that it will rise in the future.
 
-All the methods described above work in theory but there isn’t an application or a working prototype for this. It should work well in practice too because most of this has been adapted from real risk assessment systems.
+Despite the fact that all the methods outlined in this post work, in theory, there is neither a working prototype nor an application for them. Because most of this has been adapted from real-life risk assessment systems, it is likely to work well in practice as well.
 
 ![rating.png](/assets/rating.png)
