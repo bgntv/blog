@@ -60,6 +60,5 @@ Despite the fact that all the methods outlined in this post work, in theory, the
 
 ![rating.png](/assets/rating.png)
 
+<object data="{{https://github.com/bgntv/blog/blob/8fdbb3ae9cf6f95f2db5a5d186b965418a8a508f/assets/Risk_score_assessment_Part_1.pdf}}{{https://github.com/bgntv/blog/blob/8fdbb3ae9cf6f95f2db5a5d186b965418a8a508f/assets/Risk_score_assessment_Part_1.pdf}}/assets/Risk_score_assessment_Part_1.pdf" width="1000" height="1000" type="application/pdf"></object>
 
-<object data="../assets/Risk_score_assessment_Part_1.pdf" width="1000" height="1000" type='application/pdf'></object>
-<object data="../assets/Risk_score_assessment_Part_2.pdf" width="1000" height="1000" type='application/pdf'></object>
