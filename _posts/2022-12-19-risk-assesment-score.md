@@ -14,11 +14,6 @@ There are many different ways to calculate a risk assessment score, and the spec
 
 A risk assessment score can be used in a variety of contexts, including business, finance, and healthcare. By quantifying the potential consequences of a risk, a risk assessment score allows organizations to allocate resources and make informed decisions about how to proceed. It can also help to identify and track trends over time, which can be useful for identifying patterns and making long-term plans.
 
-Within the following example, the goal is to develop an internal tool to help us evaluate the likelihood and potential impact of new live-streaming partners/content creators within the platform.
-
-It's designed to help prioritize risk and determine the appropriate course of action to manage and or mitigate any risk associated with the content produced by each user.
-
-
 Abstract: Analyzing viewership stats for scoring
 
 There are a number of ways to analyze viewership statistics for scoring purposes. Here are a few things you might consider:
@@ -41,7 +36,9 @@ There are a number of ways to analyze viewership statistics for scoring purposes
 
 There are many other factors that could be considered when analyzing viewership data, and the specific approach will depend on the goals of the analysis and the data that is available.
 
+In the following example, the goal is to develop an internal scoring tool to help us evaluate the likelihood and potential impact of new live-streaming partners/content creators within our platform using thier existing streaming platforms viewership stats. 
 
+It's designed to help prioritize risk and determine the appropriate course of action to manage and or mitigate any risk associated with the content produced by each user.
 
 Portfolio management systems and banks assess risk using long-term engagement data and the activity of each user. The problem with these institutions is that there is a give-and-take loop: users want to earn the highest scores, so there is an incentive to earn the lowest risk. This model would create biased results if used in this scenario because in this case there’s no incentive.
 
