@@ -21,6 +21,28 @@ It's designed to help prioritize risk and determine the appropriate course of ac
 
 Abstract: Analyzing viewership stats for scoring
 
+There are a number of ways to analyze viewership statistics for scoring purposes. Here are a few things you might consider:
+
+ 1. Average viewership: This is the most basic measure of viewership and can be calculated by dividing the total number of views by the number of episodes or pieces of content.
+
+ 2. Viewership over time: It can be useful to plot viewership over time to see how it has changed over the course of a     season or series. This can help identify trends and patterns in viewership.
+
+ 3. Demographic breakdown: Viewership data can be analyzed by demographic to see which age groups, gender, or other 
+  demographic groups are watching the most.
+
+ 4. Geographical data: It can be interesting to see where the majority of viewership is coming from, and whether there are 
+  any regional trends or differences in viewership.
+
+ 5. Comparison to competitors: Viewership data can be compared to that of competitors to see how a show or series is 
+  performing relative to others in its market.
+
+ 6. Social media engagement: The level of social media engagement (such as likes, comments, and shares) can be a useful 
+  indicator of how much a show or series is resonating with viewers.
+
+There are many other factors that could be considered when analyzing viewership data, and the specific approach will depend on the goals of the analysis and the data that is available.
+
+
+
 Portfolio management systems and banks assess risk using long-term engagement data and the activity of each user. The problem with these institutions is that there is a give-and-take loop: users want to earn the highest scores, so there is an incentive to earn the lowest risk. This model would create biased results if used in this scenario because in this case there’s no incentive.
 
 In general, the risk score would be calculated based on whether in the long term, the user's viewership has increased or remained stable (above a minimum threshold).
