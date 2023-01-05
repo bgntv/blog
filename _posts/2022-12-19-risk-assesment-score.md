@@ -6,7 +6,7 @@ category: updates
 published: false
 ---
 
-DRAFT
+**DRAFT**
 
 Why do we need a risk assessment score?
 
