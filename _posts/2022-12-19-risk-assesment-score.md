@@ -42,6 +42,8 @@ Our goal is to develop an automated internal scoring tool to help us evaluate th
 
 It's designed to help prioritize risk and determine the appropriate course of action to manage and or mitigate any risk associated with the content produced by each user.
 
+**Summary**
+
 Portfolio management systems and banks assess risk using long-term engagement data and the activity of each user. The problem with these institutions is that there is a give-and-take loop: users want to earn the highest scores, so there is an incentive to earn the lowest risk. This model would create biased results if used in this scenario because in this case there’s no incentive.
 
 In general, the risk score would be calculated based on whether in the long term, the user's viewership has increased or remained stable (above a minimum threshold).
