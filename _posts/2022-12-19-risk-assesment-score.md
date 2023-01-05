@@ -16,6 +16,7 @@ A risk assessment score can be used in a variety of contexts, including business
 
 <h2>Analyzing viewership stats for risk scoring<h2>
 
+
 There are a number of ways to analyze viewership statistics for scoring purposes. Here are a few things you might consider:
 
  1. Average viewership: This is the most basic measure of viewership and can be calculated by dividing the total number of views by the number of episodes or pieces of content.
