@@ -5,9 +5,21 @@ date: 2022-12-19
 category: updates
 ---
 
-Analyzing viewership stats for scoring
 
-Abstract 
+Why do we need a risk assessment score?
+
+A risk assessment score is a numerical value that is used to assess the level of risk associated with a particular situation or activity. It is often used to help identify the potential consequences of an action or event, and to determine the likelihood that it will occur. This information can then be used to make informed decisions about how to proceed, and to take appropriate measures to mitigate or eliminate the identified risks.
+
+There are many different ways to calculate a risk assessment score, and the specific method used will depend on the context in which it is being applied. However, the basic principle is to identify the potential risks associated with a particular situation, and to assign a numerical value to each risk based on its likelihood and potential impact. The resulting score can then be used to prioritize risks and to guide the development of a risk management plan.
+
+A risk assessment score can be used in a variety of contexts, including business, finance, and healthcare. By quantifying the potential consequences of a risk, a risk assessment score allows organizations to allocate resources and make informed decisions about how to proceed. It can also help to identify and track trends over time, which can be useful for identifying patterns and making long-term plans.
+
+Within the following example, the goal is to develop an internal tool to help us evaluate the likelihood and potential impact of new live-streaming partners/content creators within the platform.
+
+It's designed to help prioritize risk and determine the appropriate course of action to manage and or mitigate any risk associated with the content produced by each user.
+
+
+Abstract: Analyzing viewership stats for scoring
 
 Portfolio management systems and banks assess risk using long-term engagement data and the activity of each user. The problem with these institutions is that there is a give-and-take loop: users want to earn the highest scores, so there is an incentive to earn the lowest risk. This model would create biased results if used in this scenario because in this case there’s no incentive.
 
