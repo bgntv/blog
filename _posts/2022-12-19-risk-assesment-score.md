@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Risk Assessment Score
+title: Risk Assessment Score Using Viewership Stats
 date: 2022-12-19
 category: updates
 ---
@@ -14,7 +14,7 @@ There are many different ways to calculate a risk assessment score, and the spec
 
 A risk assessment score can be used in a variety of contexts, including business, finance, and healthcare. By quantifying the potential consequences of a risk, a risk assessment score allows organizations to allocate resources and make informed decisions about how to proceed. It can also help to identify and track trends over time, which can be useful for identifying patterns and making long-term plans.
 
-Abstract: Analyzing viewership stats for scoring
+<h2>Analyzing viewership stats for risk scoring<h2>
 
 There are a number of ways to analyze viewership statistics for scoring purposes. Here are a few things you might consider:
 
@@ -36,7 +36,9 @@ There are a number of ways to analyze viewership statistics for scoring purposes
 
 There are many other factors that could be considered when analyzing viewership data, and the specific approach will depend on the goals of the analysis and the data that is available.
 
-In the following example, the goal is to develop an internal scoring tool to help us evaluate the likelihood and potential impact of new live-streaming partners/content creators within our platform using thier existing streaming platforms viewership stats. 
+The objective was to design a scoring system to help us evaluate risk against new partners. 
+
+Our goal is to develop an automated internal scoring tool to help us evaluate the likelihood and potential impact of new live-streaming partners/content creators within our platform using thier existing streaming platforms viewership stats. 
 
 It's designed to help prioritize risk and determine the appropriate course of action to manage and or mitigate any risk associated with the content produced by each user.
 
