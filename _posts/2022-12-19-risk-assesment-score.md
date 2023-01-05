@@ -59,3 +59,6 @@ While viewership may have been rising or may be stable, it does not mean that th
 Despite the fact that all the methods outlined in this post work, in theory, there is neither a working prototype nor an application for them. Because most of this has been adapted from real-life risk assessment systems, it is likely to work well in practice as well.
 
 ![rating.png](/assets/rating.png)
+![Risk_score_assessment_Part_1.pdf](/assets/Risk_score_assessment_Part_1.pdf)
+![Risk_score_assessment_Part_2.pdf](/assets/Risk_score_assessment_Part_2.pdf)
+
