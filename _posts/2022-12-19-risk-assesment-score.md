@@ -64,6 +64,6 @@ Despite the fact that all the methods outlined in this post work, in theory, the
 
 <a href="https://drive.google.com/file/d/1cyyl-onJ-itg5R7YVI05-IyGruUYWj2j/view?usp=share_link" target="_blank">Risk Score Assessment Part 2</a>
 
-<iframe src="https://drive.google.com/file/d/1cyyl-onJ-itg5R7YVI05-IyGruUYWj2j/view?usp=share_link" width="640" height="480"></iframe>
+
 
 
