@@ -62,6 +62,11 @@ Despite the fact that all the methods outlined in this post work, in theory, the
 
 <a href="https://drive.google.com/file/d/1IyTMYQySqDn5An2isZRsKA0D2evAnRpi/view?usp=share_link" target="_blank">Risk Score Assessment Part 1</a>
 
+<a href="https://drive.google.com/file/d/1cyyl-onJ-itg5R7YVI05-IyGruUYWj2j/view?usp=share_link" target="_blank">Risk Score Assessment Part 1</a>
+
+
+
+
 
 <object data="{{https://github.com/bgntv/blog/blob/8fdbb3ae9cf6f95f2db5a5d186b965418a8a508f/assets/Risk_score_assessment_Part_1.pdf}}{{https://github.com/bgntv/blog/blob/8fdbb3ae9cf6f95f2db5a5d186b965418a8a508f/assets/Risk_score_assessment_Part_1.pdf}}/assets/Risk_score_assessment_Part_1.pdf" width="1000" height="1000" type="application/pdf"></object>
 
