@@ -1,9 +1,8 @@
 ---
 layout: post
 title: Risk Assessment Score Using Viewership Stats
-date: {}
+date: 2022-11-19
 category: updates
-published: false
 ---
 
 **DRAFT**
