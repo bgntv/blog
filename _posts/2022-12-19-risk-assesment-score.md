@@ -1,8 +1,9 @@
 ---
 layout: post
 title: Risk Assessment Score Using Viewership Stats
-date: 2022-12-19
+date: {}
 category: updates
+published: false
 ---
 
 
@@ -66,10 +67,6 @@ Despite the fact that all the methods outlined in this post work, in theory, the
 
 
 
-[Risk Score Assessment Part 1](https://drive.google.com/file/d/1cyyl-onJ-itg5R7YVI05-IyGruUYWj2j/view?usp=share_link)
-
-
-
 
 <html>
 <body>
@@ -81,5 +78,3 @@ Despite the fact that all the methods outlined in this post work, in theory, the
  
 </body>
 </html>
-
-
