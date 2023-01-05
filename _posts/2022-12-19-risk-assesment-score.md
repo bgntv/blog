@@ -14,8 +14,7 @@ There are many different ways to calculate a risk assessment score, and the spec
 
 A risk assessment score can be used in a variety of contexts, including business, finance, and healthcare. By quantifying the potential consequences of a risk, a risk assessment score allows organizations to allocate resources and make informed decisions about how to proceed. It can also help to identify and track trends over time, which can be useful for identifying patterns and making long-term plans.
 
-<h2>Analyzing viewership stats for risk scoring<h2>
-
+**Analyzing viewership stats for risk scoring**
 
 There are a number of ways to analyze viewership statistics for scoring purposes. Here are a few things you might consider:
 
