@@ -6,6 +6,7 @@ category: updates
 published: false
 ---
 
+DRAFT
 
 Why do we need a risk assessment score?
 
@@ -67,3 +68,4 @@ Despite the fact that all the methods outlined in this post work, in theory, the
 
 <a href="bgntv/blog/assets/Risk_score_assessment_Part_1.pdf" class="image fit"><img src="bgntv/blog/assets/Risk_score_assessment_Part_1.pdf" alt=""></a>
 
+DRAFT
