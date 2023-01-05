@@ -59,9 +59,7 @@ While viewership may have been rising or may be stable, it does not mean that th
 Despite the fact that all the methods outlined in this post work, in theory, there is neither a working prototype nor an application for them. Because most of this has been adapted from real-life risk assessment systems, it is likely to work well in practice as well.
 
 ![rating.png](/assets/rating.png)
-![Risk_score_assessment_Part_1.pdf](/assets/Risk_score_assessment_Part_1.pdf)
-![Risk_score_assessment_Part_2.pdf](/assets/Risk_score_assessment_Part_2.pdf)
 
-<embed src="https://github.com/bgntv/blog/blob/8fdbb3ae9cf6f95f2db5a5d186b965418a8a508f/assets/Risk_score_assessment_Part_1.pdf" type="application/pdf"/>
-<embed src="https://github.com/bgntv/blog/blob/8fdbb3ae9cf6f95f2db5a5d186b965418a8a508f/assets/Risk_score_assessment_Part_2.pdf" type="application/pdf"/>
 
+<object data="../assets/Risk_score_assessment_Part_1.pdf" width="1000" height="1000" type='application/pdf'></object>
+<object data="../assets/Risk_score_assessment_Part_2.pdf" width="1000" height="1000" type='application/pdf'></object>
