@@ -64,6 +64,15 @@ Despite the fact that all the methods outlined in this post work, in theory, the
 
 <a href="https://drive.google.com/file/d/1cyyl-onJ-itg5R7YVI05-IyGruUYWj2j/view?usp=share_link" target="_blank">Risk Score Assessment Part 2</a>
 
+<html>
+<body>
 
+<h2>The object element</h2>
+
+<object data="https://drive.google.com/file/d/1cyyl-onJ-itg5R7YVI05-IyGruUYWj2j/view?usp=share_link" width="500" height="200">
+</object>
+ 
+</body>
+</html>
 
 
