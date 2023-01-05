@@ -60,7 +60,7 @@ Despite the fact that all the methods outlined in this post work, in theory, the
 
 ![rating.png](/assets/rating.png)
 
-<a href="bgntv.github.io/blog/assets/Risk_score_assessment_Part_1.pdf" target="_blank">PDF</a>
+<a href="https://drive.google.com/file/d/1IyTMYQySqDn5An2isZRsKA0D2evAnRpi/view?usp=share_link" target="_blank">Risk Score Assessment Part 1</a>
 
 
 <object data="{{https://github.com/bgntv/blog/blob/8fdbb3ae9cf6f95f2db5a5d186b965418a8a508f/assets/Risk_score_assessment_Part_1.pdf}}{{https://github.com/bgntv/blog/blob/8fdbb3ae9cf6f95f2db5a5d186b965418a8a508f/assets/Risk_score_assessment_Part_1.pdf}}/assets/Risk_score_assessment_Part_1.pdf" width="1000" height="1000" type="application/pdf"></object>
