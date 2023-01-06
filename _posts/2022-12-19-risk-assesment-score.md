@@ -61,15 +61,10 @@ Despite the fact that all the methods outlined in this post work, in theory, the
 
 ![rating.png](/assets/rating.png)
 
-<div class="thi-box" markdown="1">
-<div class="box-title" markdown="1">
-**Mobile Users can access the full articles using the following links**
-</div>
-<div class="box-content" markdown="1">
-Content
-</div>
-</div>
 
+
+{: .notice--info}
+Mobile Users can access the full articles using the following links
 
 <a href="https://drive.google.com/file/d/1IyTMYQySqDn5An2isZRsKA0D2evAnRpi/view?usp=share_link" target="_blank">Risk Score Assessment Part 1</a>
 
