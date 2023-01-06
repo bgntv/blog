@@ -72,6 +72,6 @@ Despite the fact that all the methods outlined in this post work, in theory, the
 
 OBJECT TEST 9:24 https://github.com/orgs/community/discussions/21720 
 
-<a href="assets/RiskScoreP1.pdf" class="image fit"><img src="assets/RiskScoreP1.pdf" alt=""></a>
+<a href="/assets/RiskScoreP1.pdf" class="image fit"><img src="/assets/RiskScoreP1.pdf" alt=""></a>
 
 DRAFT
