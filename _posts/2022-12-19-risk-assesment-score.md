@@ -68,9 +68,7 @@ Despite the fact that all the methods outlined in this post work, in theory, the
   * <a href="https://drive.google.com/file/d/1cyyl-onJ-itg5R7YVI05-IyGruUYWj2j/view?usp=share_link" target="_blank">Risk Score Assessment Part 2</a>
 
 
-
-
-OBJECT TEST 11:48 <!-- https://stackoverflow.com/questions/56961472/jekyll-wont-render-text-after-pdf-is-embedded-into-an-article -->
+<!-- https://stackoverflow.com/questions/56961472/jekyll-wont-render-text-after-pdf-is-embedded-into-an-article -->
 
 <object 
   data="/assets/RiskScoreP1.pdf" 
@@ -85,5 +83,3 @@ OBJECT TEST 11:48 <!-- https://stackoverflow.com/questions/56961472/jekyll-wont-
   height="1000" 
   type="application/pdf"></object>
 
-
-DRAFT
