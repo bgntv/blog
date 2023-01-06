@@ -70,7 +70,12 @@ Despite the fact that all the methods outlined in this post work, in theory, the
 
 
 
-OBJECT TEST 11:13 
+OBJECT TEST 11:32 https://talk.jekyllrb.com/t/embed-pdf-in-github-pages/4527/2
+
+<object data="../assets/RiskScoreP1.pdf" width="1000" height="1000" type='application/pdf'></object>
+
+
+
 
 
 
