@@ -70,10 +70,10 @@ Despite the fact that all the methods outlined in this post work, in theory, the
 
 
 
-OBJECT TEST 10:30 https://github.com/bgntv/blog/blob/b3f7d80a53fc5b44b7b1aa48d4baf4f76185f29f/assets/RiskScoreP1.pdf
+OBJECT TEST 10:36 https://github.com/bgntv/blog/blob/main/assets/RiskScoreP1.pdf
 
 
-<object data="{{https://github.com/bgntv/blog/blob/b3f7d80a53fc5b44b7b1aa48d4baf4f76185f29f/assets/RiskScoreP1.pdfl }}{{https://github.com/bgntv/blog/blob/b3f7d80a53fc5b44b7b1aa48d4baf4f76185f29f/assets/RiskScoreP1.pdf}}/_assets/RiskScoreP1.pdf" width="1000" height="1000" type="application/pdf"></object>
+<object data="{{https://github.com/bgntv/blog/blob/main/assets/RiskScoreP1.pdf}}{{https://github.com/bgntv/blog/blob/main/assets/RiskScoreP1.pdf}}/_assets/RiskScoreP1.pdf" width="1000" height="1000" type="application/pdf"></object>
 
 
 DRAFT
