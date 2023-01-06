@@ -72,9 +72,4 @@ Despite the fact that all the methods outlined in this post work, in theory, the
 
 OBJECT TEST 
 
-<embed src="https://github.com/bgntv/blog/raw/20d6c4f477a805b1ff1b0b57b7f590538d9186e8/assets/Risk%20score%20assessment%20Part%201.pdf" class="application/pdf" width = "100%" height="100%" />	
-
-
-
-
 DRAFT
