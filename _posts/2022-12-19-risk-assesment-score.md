@@ -5,9 +5,8 @@ date: 2022-12-19
 category: updates
 ---
 
-**DRAFT**
 
-Why do we need a risk assessment score?
+**Why do we need a risk assessment score?**
 
 A risk assessment score is a numerical value that is used to assess the level of risk associated with a particular situation or activity. It is often used to help identify the potential consequences of an action or event, and to determine the likelihood that it will occur. This information can then be used to make informed decisions about how to proceed, and to take appropriate measures to mitigate or eliminate the identified risks.
 
