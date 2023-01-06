@@ -70,9 +70,9 @@ Despite the fact that all the methods outlined in this post work, in theory, the
 
 
 
-OBJECT TEST 9:34 <embed src="https://sumanbogati.github.io/sample.pdf" type="application/pdf" />
+OBJECT TEST 9:40 <embed src="https://sumanbogati.github.io/sample.pdf" type="application/pdf" />
 
-<embed src="https://github.com/bgntv/blog/blob/main/RiskScorep1.pdf" type="application/pdf" />
+<embed src="[RiskScoreP1.pdf]([assets/RiskScoreP1.pdf" type="application/pdf" />
 
 
 DRAFT
