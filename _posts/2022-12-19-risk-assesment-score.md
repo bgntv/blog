@@ -62,9 +62,9 @@ Despite the fact that all the methods outlined in this post work, in theory, the
 ![rating.png](/assets/rating.png)
 
 **Notice:** Mobile Users can access the full articles using the following links.
-<a href="https://drive.google.com/file/d/1IyTMYQySqDn5An2isZRsKA0D2evAnRpi/view?usp=share_link" target="_blank">Risk Score Assessment Part 1</a>
+  <a href="https://drive.google.com/file/d/1IyTMYQySqDn5An2isZRsKA0D2evAnRpi/view?usp=share_link" target="_blank">Risk Score Assessment Part 1</a>
 
-<a href="https://drive.google.com/file/d/1cyyl-onJ-itg5R7YVI05-IyGruUYWj2j/view?usp=share_link" target="_blank">Risk Score Assessment Part 2</a>
+  <a href="https://drive.google.com/file/d/1cyyl-onJ-itg5R7YVI05-IyGruUYWj2j/view?usp=share_link" target="_blank">Risk Score Assessment Part 2</a>
 
 
 DRAFT
