@@ -67,5 +67,7 @@ Despite the fact that all the methods outlined in this post work, in theory, the
 
   * <a href="https://drive.google.com/file/d/1cyyl-onJ-itg5R7YVI05-IyGruUYWj2j/view?usp=share_link" target="_blank">Risk Score Assessment Part 2</a>
 
+  <object data="../assets/Risk score assessment Part 1.pdf" width="1000" height="1000" type='application/pdf'></object>
+
 
 DRAFT
