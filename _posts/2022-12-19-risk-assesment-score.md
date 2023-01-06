@@ -71,5 +71,5 @@ Despite the fact that all the methods outlined in this post work, in theory, the
 
 
 OBJECT TEST 
-
+<a href="/RiskScoreP1.pdf" class="image fit"><img src="images/marr_pic.jpg" alt=""></a>
 DRAFT
