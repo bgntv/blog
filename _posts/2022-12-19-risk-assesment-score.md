@@ -70,9 +70,10 @@ Despite the fact that all the methods outlined in this post work, in theory, the
 
 
 
-OBJECT TEST 9:40 <embed src="https://sumanbogati.github.io/sample.pdf" type="application/pdf" />
+OBJECT TEST 10:20 <object data="{{ site.url }}{{ site.baseurl }}/_pdfs/Algebra_I_Reference_Sheet.pdf" width="1000" height="1000" type="application/pdf"></object>
 
-<embed src="[RiskScoreP1.pdf]([assets/RiskScoreP1.pdf" type="application/pdf" />
+
+<object data="{{ site.url }}{{ site.baseurl }}/_assets/RiskScoreP1.pdf" width="1000" height="1000" type="application/pdf"></object>
 
 
 DRAFT
