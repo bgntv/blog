@@ -61,6 +61,9 @@ Despite the fact that all the methods outlined in this post work, in theory, the
 
 ![rating.png](/assets/rating.png)
 
+**Notice:** Mobile Users can access the full articles using the following links.
+{: .notice--info}
+
 
 
 {: .notice--info}
