@@ -68,14 +68,13 @@ Despite the fact that all the methods outlined in this post work, in theory, the
   * <a href="https://drive.google.com/file/d/1cyyl-onJ-itg5R7YVI05-IyGruUYWj2j/view?usp=share_link" target="_blank">Risk Score Assessment Part 2</a>
 
 
- 
-<object data="{{https://github.com/bgntv/blog/blob/8d4bf60a3b2137576baf533534dd691bf8402851/assets/Risk%20score%20assessment%20Part%201.pdf}}{{https://github.com/bgntv/blog/blob/8d4bf60a3b2137576baf533534dd691bf8402851/assets/Risk%20score%20assessment%20Part%201.pdf}}/_assets/Risk score assessment Part 1.pdf" width="1000" height="1000" type="application/pdf"></object>
-
-<object data="{{https://github.com/bgntv/blog/blob/8d4bf60a3b2137576baf533534dd691bf8402851/assets/Risk%20score%20assessment%20Part%202.pdf}}{{https://github.com/bgntv/blog/blob/8d4bf60a3b2137576baf533534dd691bf8402851/assets/Risk%20score%20assessment%20Part%202.pdf}}/_assets/Risk score assessment Part 2.pdf" width="1000" height="1000" type="application/pdf"></object>
 
 
 OBJECT TEST 
-<embed src="https://github.com/bgntv/blog/blob/8d4bf60a3b2137576baf533534dd691bf8402851/assets/Risk%20score%20assessment%20Part%201.pdf" type="application/pdf"/>
+
+<embed src="https://github.com/bgntv/blog/raw/20d6c4f477a805b1ff1b0b57b7f590538d9186e8/assets/Risk%20score%20assessment%20Part%201.pdf" class="application/pdf" width = "100%" height="100%" />	
+
+
 
 
 DRAFT
