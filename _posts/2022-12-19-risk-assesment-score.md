@@ -79,9 +79,4 @@ OBJECT TEST 11:38 https://stackoverflow.com/questions/56961472/jekyll-wont-rende
   type="application/pdf"></object>
 
 
-
-
-
-
-
 DRAFT
