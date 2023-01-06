@@ -70,6 +70,9 @@ Despite the fact that all the methods outlined in this post work, in theory, the
 
 
 
-OBJECT TEST 9:30 
+OBJECT TEST 9:34 <embed src="https://sumanbogati.github.io/sample.pdf" type="application/pdf" />
+
+<embed src="https://github.com/bgntv/blog/blob/main/RiskScorep1.pdf" type="application/pdf" />
+
 
 DRAFT
