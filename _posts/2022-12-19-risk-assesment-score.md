@@ -5,8 +5,15 @@ date: 2022-12-19
 category: updates
 ---
 
+**Introduction**
 
-**Why do we need a risk assessment score?**
+BGN.tv, or the Broadcast Gaming Network, is a project that I started about a year ago in response to the challenges faced by streamers on platforms like Twitch. These streamers often put in countless hours and dedication in order to achieve partnership status and generate revenue from their content. I wanted to create a value proposition that would attract these users to our platform and allow them to monetize from day one.
+
+During my research, I identified several challenges that needed to be addressed before launching the platform. These included: proactively monitoring partners to ensure they are behaving within the platform's guidelines, ensuring that content falls within the platform's terms of service, determining how to scale the process, and finding the right balance between providing enough data to make reliable recommendations and protecting the interests of the platform.
+
+This paper reflects my research using publicly accessible user metrics.
+
+**Risk Assessment Score**
 
 A risk assessment score is a numerical value that is used to assess the level of risk associated with a particular situation or activity. It is often used to help identify the potential consequences of an action or event, and to determine the likelihood that it will occur. This information can then be used to make informed decisions about how to proceed, and to take appropriate measures to mitigate or eliminate the identified risks.
 
