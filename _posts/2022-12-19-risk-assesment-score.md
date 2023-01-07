@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Risk Assessment Score Using Viewership Stats
+title: Creating a Sustainable and Supportive Ecosystem for Streamers; A Case Study of BGN.tv.
 date: 2022-12-19
 category: updates
 ---
