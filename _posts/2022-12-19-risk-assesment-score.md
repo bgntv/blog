@@ -63,19 +63,11 @@ It's designed to help prioritize risk and determine the appropriate course of ac
 
 **Summary**
 
-Portfolio management systems and banks assess risk using long-term engagement data and the activity of each user. The problem with these institutions is that there is a give-and-take loop: users want to earn the highest scores, so there is an incentive to earn the lowest risk. This model would create biased results if used in this scenario because in this case there’s no incentive.
+Risk assessment systems used by portfolio management systems and banks often rely on long-term engagement data and the activity of each user to evaluate risk. However, this approach can be problematic because users may be motivated to present themselves as low-risk in order to earn higher scores, leading to biased results.
 
-In general, the risk score would be calculated based on whether in the long term, the user's viewership has increased or remained stable (above a minimum threshold).
+To address this issue, a new model for risk assessment could be developed that takes into account changes in viewership over time. The risk score for a user could be calculated based on whether their viewership has increased or remained stable (above a certain threshold). In addition to tracking changes in viewership, this model should also consider the likelihood of deviations from the trend line, as it is possible for a channel with declining viewership to recover in the future, or for a channel with rising viewership to experience a decline.
 
-* I.e 
-  * score index = multiplier*(change in viewership) for a viewer uptick
-  * score index = multiplier*(difference of viewership from threshold) for stable viewership
-
-However, this model requires another requirement: predicting variations from the trend line.
-
-While viewership may have been rising or may be stable, it does not mean that the trend will continue. Similarly, if a channel is failing, there’s still a possibility that it will rise in the future.
-
-Despite the fact that all the methods outlined in this post work, in theory, there is neither a working prototype nor an application for them. Because most of this has been adapted from real-life risk assessment systems, it is likely to work well in practice as well.
+While this approach shows promise, it is worth noting that it has not yet been tested through a working prototype or application. However, as it is based on real-life risk assessment systems, it is likely to be effective in practice.
 
 ![rating.png](/assets/rating.png)
 
