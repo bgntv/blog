@@ -21,7 +21,7 @@ There are many different ways to calculate a risk assessment score, and the spec
 
 A risk assessment score can be used in a variety of contexts, including business, finance, and healthcare. By quantifying the potential consequences of a risk, a risk assessment score allows organizations to allocate resources and make informed decisions about how to proceed. It can also help to identify and track trends over time, which can be useful for identifying patterns and making long-term plans.
 
-**Benefits of using risk assessment scores include:**
+**Benefits of using risk assessment scores include**
 
  1. Identifying and prioritizing potential risks: Risk assessment scores can help organizations identify and prioritize potential risks based on the likelihood and impact of those risks. This can help organizations allocate resources and take proactive steps to mitigate or manage those risks.
 
